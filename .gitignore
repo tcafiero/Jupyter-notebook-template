@@ -1,0 +1,15 @@
+my_project/venv/
+.cache/
+.copilot/
+.ipython/
+.jupyter/
+.local/
+.ssh/
+.vscode-server/
+.profile
+.sudo_as_admin_successful
+.wget-hsts
+.bash_history
+.bash_logout
+.bashrc
+.dotnet/

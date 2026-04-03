@@ -9,3 +9,4 @@ node --version
 mkdir -p ~/my_project; cd ~/my_project
 python3 -m venv venv
 source venv/bin/activate
+
